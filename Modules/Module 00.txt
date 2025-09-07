@@ -1,0 +1,11 @@
+This course includes the following modules:
+• 1: Introduction to Amazon Web Services
+• 2: Compute in the Cloud
+• 3: Global Infrastructure and Reliability
+• 4: Networking
+• 5: Storage and Databases
+• 6: Security
+• 7: Monitoring and Analytics
+• 8: Pricing and Support
+• 9: Migration and Innovation
+• 10: AWS Certified Cloud Practitioner Basic
