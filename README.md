@@ -21,3 +21,12 @@
 ## Module-09: Migration and innovation
 
 ## Module-10: AWS Certified Cloud Practitioner
+
+
+
+### Basic client-server model
+
+<img width="390" height="170" alt="image" src="https://github.com/user-attachments/assets/f9f3fd0f-ba49-4a49-ba89-67a1f7484fa2" />
+
+
+
