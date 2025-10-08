@@ -39,4 +39,7 @@
 ->Cloud computing refers to the on-demand delivery of IT resources and applications through the internet.
 
 
+->pay as you go pricing 
+
+
 
