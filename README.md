@@ -53,3 +53,17 @@ Storage: Data(Binary)
 Database: stores data in structured way
 network: routers switches & DNS server
 
+
+If i Elaborate more on Network:
+->Network is some thing that has routers, switch & the DNS server connected with each other.
+
+routers: This is a networking evice that forwards datapakets between computers.
+
+switch: it takes the Data packet and sent it to correct server/client on your network.
+
+<img width="763" height="252" alt="image" src="https://github.com/user-attachments/assets/59cd4ae9-1f4b-46f9-b957-7ca309110b95" />
+
+
+
+
+
