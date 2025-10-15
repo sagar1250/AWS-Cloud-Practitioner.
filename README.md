@@ -43,3 +43,13 @@
 
 
 
+### What is the server composed of?
+->CPU, RAM, Storage, Database & Network
+
+cpu + ram acts as a brain which means cpu will perform computation tasks like calculations, where as RAM will retrieve the information fastely.
+these two act a a brain.
+
+Storage: Data(Binary)
+Database: stores data in structured way
+network: routers switches & DNS server
+
