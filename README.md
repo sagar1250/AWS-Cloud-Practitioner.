@@ -64,6 +64,14 @@ switch: it takes the Data packet and sent it to correct server/client on your ne
 <img width="763" height="252" alt="image" src="https://github.com/user-attachments/assets/59cd4ae9-1f4b-46f9-b957-7ca309110b95" />
 
 
+### IAM Users & Groups
+
+-> IAM is a global service(Identity and access Management)
+-> Root account created by default. shouldn't be used or shared.
+-> users are people with in your organisation, and can be grouped.
+
+
+
 
 
 
