@@ -70,6 +70,14 @@ switch: it takes the Data packet and sent it to correct server/client on your ne
 -> Root account created by default. shouldn't be used or shared.
 -> users are people with in your organisation, and can be grouped.
 
+-> Groups only contain user not any other groups
+->users can belong to no group or multiple groups.
+
+<img width="845" height="197" alt="image" src="https://github.com/user-attachments/assets/45e190a6-bb16-4890-84b3-2d8fcde3917f" />
+
+IAM permissions:
+-> users and groups can be assigned  JSON document called policies
+
 
 
 
